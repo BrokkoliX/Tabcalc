@@ -1,2 +1,0 @@
-# Tabcalc
-Tabnine Calculator
